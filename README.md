@@ -10,3 +10,4 @@ Each test consists of 3 files: "input.txt", where are located input data, "outpu
 In console version you can enter the number to run test, enter 0 to enter your own test in console and -1 to exit.
 Аfter running the test, the result will be overwritten into the corresponding file "output.txt" and compared with the "correct_output.txt".
 You can also run your test from file, create folder with name "Test21", for example, or with another number, write input and correct_output using one of my tests as an example and enter into program your test number.
+There's also added the function of generating random test. To do it you jush have to enter 'g' and matrix size. Than it will be saved in folder 'Generated' with input and correct output. To run this test you have to enter 'G'.
